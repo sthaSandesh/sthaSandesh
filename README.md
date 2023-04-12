@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sandesh Shrestha but you can call me Sandy.
 - 👀 I’m interested in New Technology to explore
 - 🌱 I’m currently learning Different programing languages 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any good company 
 - 📫 How to reach me :- contact me on discord or visit my website
 
 <!---
