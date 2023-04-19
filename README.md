@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Different programing languages 
 - 💞️ I’m looking to collaborate with good company 
 - 📫 How to reach me :- contact me on discord or visit my website
+"Coding my way to the future 🚀 Full-stack developer and lover of all 
+things tech. Follow along for my latest projects and code snippets."
+
 
 <!---
 sthaSandesh/sthaSandesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
