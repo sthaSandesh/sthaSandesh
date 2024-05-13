@@ -2,11 +2,10 @@
 - Am a developer prefer to code in dark mode cause light attract bugs.
 
 
+
 #include <stdio.h>
 
-#define N 3 // Number of variables
-
-// Function to perform Gaussian elimination
+#define N 3
 void gaussianElimination(float a[N][N + 1])
 {
     int i, j, k;
@@ -23,7 +22,6 @@ void gaussianElimination(float a[N][N + 1])
     }
 }
 
-// Function to print the solution
 void printSolution(float a[N][N + 1])
 {
     float sol[N];
@@ -53,7 +51,6 @@ int main()
     printSolution(a);
     return 0;
 }
-
 
 <!---
 sthaSandesh/sthaSandesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
